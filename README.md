@@ -2,7 +2,7 @@
 
 # 3.2 - Firefly
 
-
+<img src = "Videos/Firefly.gif" width="400" height="600"/>
 
 # 4.4 - Project Overview: 
 
