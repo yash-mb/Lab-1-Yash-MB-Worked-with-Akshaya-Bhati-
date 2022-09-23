@@ -24,7 +24,7 @@ Instructions:
 
 # Diagram of embedded system setup
 
-<img src = "Videos/diagram.gif" width="400" height="600"/>
+<img src = "Videos/diagram.JPG" width="800" height="700"/>
 
 
 
