@@ -4,7 +4,7 @@
 
 <img src = "Videos/Firefly.gif" width="400" height="600"/>
 
-# 4.4 - Project Overview: 
+# 4.4 - Custom Visualizer Overview: 
 
 This is a motion detector which permits the side (left and right) motion (hand gestures) by signaling a green light and blinks red whenever a perpendicular (up and down) motion is detected. For this purpose a RP2040 microcontroller connected APDS9960 sensor through a Stemma QT cable is used. 
 
