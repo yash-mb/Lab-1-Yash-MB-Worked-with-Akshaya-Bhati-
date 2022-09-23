@@ -1,4 +1,9 @@
-### Lab 1: Yash Budhe | Worked-with: Akshaya Bhati
+University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 1
+    
+    
+    Yash Budhe
+        LinkedIn: https://www.linkedin.com/in/yash-mb-a1723812b
+    Tested on: HP Envy x360 Convertible, 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz 
 
 # 3.2 - Firefly
 
@@ -24,7 +29,7 @@ Instructions:
 
 # Diagram of embedded system setup
 
-<img src = "Videos/diagram.JPG" width="800" height="700"/>
+<img src = "Videos/diagram.JPG" width="800" height="600"/>
 
 
 
