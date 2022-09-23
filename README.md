@@ -2,7 +2,7 @@
 
 # 3.2 - Firefly
 
-<img src = "Videos/Firefly.gif" width="400" height="600"/>
+<img src = "Videos/Firefly (2).gif" width="400" height="600"/>
 
 # 4.4 - Custom Visualizer Overview: 
 
@@ -16,7 +16,9 @@ Instructions:
 
 <img src = "Videos/Motion detector.gif" width="600" height="600"/>
 
-3. To stop the algorithm from running, use a mobile flaslight on the sensor. Microcontroller will blink blue and the code will stop.
+3. To stop the algorithm from running, use a mobile flaslight on the sensor. Microcontroller will blink blue (not clearly visible) and the code will stop.
+
+<img src = "Videos/Firefly (2).gif" width="400" height="600"/>
 
 
 
