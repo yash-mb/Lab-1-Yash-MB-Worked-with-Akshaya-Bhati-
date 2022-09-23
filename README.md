@@ -2,6 +2,8 @@
 
 # 3.2 - Firefly
 
+The embedded system reacts to the firefly video on youtube. The brightness of the LED light on the MCU scales with light intensity falling on the sensor. The blue light gets brighter when more light is there and gets dimmer with reducing light and eventually disappers when the sensor is in dark.
+
 <img src = "Videos/Firefly.gif" width="400" height="600"/>
 
 # 4.4 - Custom Visualizer Overview: 
